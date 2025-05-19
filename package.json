@@ -1,5 +1,5 @@
 {
-  "name": "@xray-app/playwright-junit-reporter",
+  "name": "@devilofhell/playwright-junit-reporter",
   "version": "0.6.0",
   "description": "generate an enhanced JUnit XML report suitable for Xray with the playwright test results",
   "main": "./dist/index.js",
@@ -22,19 +22,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xray-App/playwright-junit-reporter.git"
+    "url": "git+https://github.com/devilofhell/playwright-junit-reporter.git"
   },
   "keywords": [
     "playwright",
     "junit",
     "report"
   ],
-  "author": "Sergio Freire <sergio.freire@idera.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Xray-App/playwright-junit-reporter/issues"
+    "url": "https://github.com/devilofhell/playwright-junit-reporter/issues"
   },
-  "homepage": "https://github.com/Xray-App/playwright-junit-reporter",
+  "homepage": "https://github.com/devilofhell/playwright-junit-reporter",
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
     "@playwright/test": "^1.52.0",
